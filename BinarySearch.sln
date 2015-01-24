@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csproj", "{8671D045-0DFB-4AEE-AEA0-FFEB2999E00E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerTests", "PlayerTests\PlayerTests.csproj", "{241A82A4-E056-444F-8AAF-13BEFD2B2B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedArray", "SortedArray\SortedArray.csproj", "{5539BF40-2F4A-40D8-A1A7-EEB901032414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8671D045-0DFB-4AEE-AEA0-FFEB2999E00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8671D045-0DFB-4AEE-AEA0-FFEB2999E00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8671D045-0DFB-4AEE-AEA0-FFEB2999E00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8671D045-0DFB-4AEE-AEA0-FFEB2999E00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241A82A4-E056-444F-8AAF-13BEFD2B2B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241A82A4-E056-444F-8AAF-13BEFD2B2B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241A82A4-E056-444F-8AAF-13BEFD2B2B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241A82A4-E056-444F-8AAF-13BEFD2B2B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5539BF40-2F4A-40D8-A1A7-EEB901032414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5539BF40-2F4A-40D8-A1A7-EEB901032414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5539BF40-2F4A-40D8-A1A7-EEB901032414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5539BF40-2F4A-40D8-A1A7-EEB901032414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

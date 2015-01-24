@@ -1,0 +1,5 @@
+C:\Users\Albert\Desktop\BinarySearch\Player\bin\Debug\Player.dll
+C:\Users\Albert\Desktop\BinarySearch\Player\bin\Debug\Player.pdb
+C:\Users\Albert\Desktop\BinarySearch\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Desktop\BinarySearch\Player\obj\Debug\Player.dll
+C:\Users\Albert\Desktop\BinarySearch\Player\obj\Debug\Player.pdb
